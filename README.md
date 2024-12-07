@@ -22,5 +22,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Capybalas&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=go,php,html,vue,css,js,ts,md,&theme=light" />
+ 
+<img align="center" src="https://skillicons.dev/icons?i=go,c,cpp,cs,php,py,html,vue,css,js,ts,md,docker,mysql,postgres,redis,laravel,yarn,vite,nodejs&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=vscode,vim,neovim&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=unreal,unity,godot&theme=light" />
 </p>
